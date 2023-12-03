@@ -1,6 +1,7 @@
-<h2><a href="https://ionas.dev">Vasileiadis Ionas</a></h2>
-
-<h3>Currently contributing primarily to a private GitLab instance</h3>
+<h2><a href="https://ionas.dev">Ionas Vasileiadis</a></h2>
+<h3>I'm currently contributing on private git servers!</h3>
+<p>Most of the code you'll find here was written for fun or practice, not as professional work.</p>
+<p>Check out my <a href="https://ionas.dev">webpage</a> that I host here and feel free to reach out to collaborate.</p>
 
 - <a href="mailto:work@ionas.dev">:email:</a>
 - [![Linkedin Badge](https://img.shields.io/badge/-Ionas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ionas-vasileiadis/)
